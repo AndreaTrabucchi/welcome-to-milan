@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1D2A"/>
+      <stop offset="1" stop-color="#132F42"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="120" fill="url(#g)"/>
+  <path d="M70 360h372v48H70z" fill="#C8A45D" opacity="0.95"/>
+  <path d="M98 360V250h36v-36h24v36h44v-68h22v-28h18v28h22v68h44v-36h24v36h36v110H98z"
+        fill="none" stroke="#C8A45D" stroke-width="12" stroke-linejoin="round"/>
+  <path d="M256 150l18 32h-36l18-32z" fill="#C8A45D"/>
+  <path d="M160 200l12 22h-24l12-22zM352 200l12 22h-24l12-22z" fill="#C8A45D" opacity="0.9"/>
+  <text x="256" y="458" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif"
+        font-size="44" fill="#EAD9B2" letter-spacing="1.5">MILANO</text>
+</svg>
