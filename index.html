@@ -35,7 +35,7 @@
           <div class="sub">Via Soperga 52 — Milan, Italy</div>
         </div>
       </div>
-      <a class="pill" href="assets/welcome-to-milan.pdf" target="_blank" rel="noopener" data-view>
+      <a class="pill" href="assets/welcome-to-milan.pdf" target="_blank" rel="noopener" data-view onclick="gtag('event', 'pdf_view_click');">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
           <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/>
           <path d="M14 2v6h6"/>
@@ -57,7 +57,7 @@
           </p>
 
           <div class="cta">
-            <a class="btn primary" href="assets/welcome-to-milan.pdf" download="Welcome-to-Milan-Guest-Guide.pdf" data-download>
+            <a class="btn primary" href="assets/welcome-to-milan.pdf" download="Welcome-to-Milan-Guest-Guide.pdf" data-download onclick="gtag('event', 'pdf_download_click');">
               <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
                 <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
                 <path d="M7 10l5 5 5-5"/>
@@ -65,7 +65,7 @@
               </svg>
               Download the PDF Guide
             </a>
-            <a class="btn" href="assets/welcome-to-milan.pdf" target="_blank" rel="noopener" data-view>
+            <a class="btn" href="assets/welcome-to-milan.pdf" target="_blank" rel="noopener" data-view onclick="gtag('event', 'pdf_view_click');">
               <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
                 <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8S1 12 1 12z"/>
                 <circle cx="12" cy="12" r="3"/>
@@ -168,14 +168,14 @@
   <div class="sticky" role="region" aria-label="Download bar">
     <div class="wrap">
       <div class="hint">Save the guide offline — it’s useful while you’re out exploring.</div>
-      <a class="btn primary" href="assets/welcome-to-milan.pdf" download="Welcome-to-Milan-Guest-Guide.pdf" data-download>
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
-          <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
-          <path d="M7 10l5 5 5-5"/>
-          <path d="M12 15V3"/>
-        </svg>
-        Download PDF
-      </a>
+        <a class="btn primary" href="assets/welcome-to-milan.pdf" download="Welcome-to-Milan-Guest-Guide.pdf" data-download onclick="gtag('event', 'pdf_download_click');">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+            <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+            <path d="M7 10l5 5 5-5"/>
+            <path d="M12 15V3"/>
+          </svg>
+          Download PDF
+        </a>
     </div>
   </div>
 
