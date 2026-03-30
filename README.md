@@ -1,21 +1,34 @@
-# Welcome to Milan — GitHub Pages (mobile-friendly)
+# Welcome to Milan — Guest Guide
 
-This folder is ready to upload to a GitHub repository and publish with **GitHub Pages**.
+This repository hosts the public page of the **Welcome to Milan** guest guide for **NoLo Centrale Apartment** in Milan.
 
-## Publish in 60 seconds
-1. Create a new GitHub repository (public is simplest).
-2. Upload **all files and folders** from this ZIP into the repository root.
-3. Go to **Settings → Pages**
-   - Source: **Deploy from a branch**
-   - Branch: **main** (or master) / **root**
-4. Wait for the published URL (it will look like `https://USERNAME.github.io/REPO/`).
+It was created to give guests a simple, clear, and mobile-friendly place where they can easily access useful information before and during their stay.
 
-## PDF download
-The download button points to:
-`assets/welcome-to-milan.pdf`
+## Live page
 
-To update the guide later, just replace that file with a new PDF (same name).
+https://andreatrabucchi.github.io/welcome-to-milan/
 
-## Notes
-- The page is optimized for smartphone viewing (QR scan).
-- Fonts are loaded from Google Fonts (Inter + Playfair Display).
+## Inside the guide
+
+Guests can quickly find:
+
+- apartment information
+- house rules
+- check-in and check-out instructions
+- public transport and airport connections
+- neighborhood recommendations
+- restaurants, attractions, and day trips
+- practical tips for enjoying Milan with ease
+
+## Why this page exists
+
+The purpose of this project is to make the guest experience smoother and more comfortable by offering one reliable place where the guide can always be viewed or downloaded.
+
+## Note about links
+
+The guide includes clickable links throughout. Depending on the device, browser, or PDF viewer being used, some links may occasionally not open as expected. If that happens, downloading the PDF and opening it in a dedicated PDF reader usually provides the best experience.
+
+## NoLo Centrale Apartment
+
+**Milan, Italy**  
+Hosted by **Maurizio & Andrea**
